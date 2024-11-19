@@ -1,0 +1,1 @@
+To change the time, modify the value in the "values" line, line of the "settings.json" file.
